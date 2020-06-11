@@ -1,0 +1,56 @@
+
+nav {
+    display: flex;
+    background-color: rgb(251, 251, 251);
+    margin-bottom: 10px;
+}
+
+
+.nav img {
+    max-width: 50px;
+    max-height: 40px;
+}
+
+
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+
+
+h2 {
+    margin: 0px
+}
+
+
+h6 {
+    margin: 0px;
+}
+
+
+.main-image img {
+    width: 100%;
+}
+
+
+body {
+    max-width: 500px;
+}
+
+.body-wrapper{
+    border: 1px solid black;
+}
+
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+footer button {
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
